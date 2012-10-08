@@ -1,4 +1,4 @@
-5-Band-Sound-Equalizer--Flex-
+5-Band Sound Equalizer in Flex
 =============================
 
 While there are several <a href="http://www.everydayflash.com/blog/index.php/2008/03/26/classic-sound-equalizer-in-flashas3/">tutorials</a> out there for "graphic equalizers" in Flash, these "equalizers" aren't actually affecting the sound being produced, only reporting what is heard. 
